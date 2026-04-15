@@ -373,7 +373,7 @@ G5 = 784
 C6 = 1047
 
 lastNotified = 0 # ms
-notificationBuffer = 10*1000 # ms
+notificationBuffer = 1*1000*60*60 # 1 hr
 playedVictory = False # track if already played completedMilestoneSound 
 
 # sound effects
